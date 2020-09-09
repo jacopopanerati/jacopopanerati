@@ -1,4 +1,6 @@
-### Hi there 👋
+### This is a GitHub Pages-only account 
+
+Check out [https://github.com/JacopoPan](https://github.com/JacopoPan) for code and stuff 🧑‍💻
 
 <!--
 **jacopopanerati/jacopopanerati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
